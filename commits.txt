@@ -1,0 +1,18 @@
+commit 27529bcea98b8c701ea355559af9e5209a1bce53
+Merge: fca580b c69a606
+Author: Oscar <zero.nextar@gmail.com>
+Date:   Mon Jan 11 23:51:02 2016 -0600
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c69a60657b3fac2473966144e8562d05498cea52
+Author: Óscar Castañeda <zero.nextar@gmail.com>
+Date:   Mon Jan 11 23:48:31 2016 -0600
+
+    creación de archivo readme
+
+commit fca580b3b961136f2a09767535f8fd5df671c729
+Author: Oscar <zero.nextar@gmail.com>
+Date:   Mon Jan 11 23:44:43 2016 -0600
+
+    archivo local creado

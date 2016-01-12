@@ -1,3 +1,15 @@
+commit 561a875a0c0a1a6798fd5bf619aa57ecd812c511
+Author: Oscar <zero.nextar@gmail.com>
+Date:   Mon Jan 11 23:53:50 2016 -0600
+
+    segundo archivo local
+
+commit 56074830848e6bcec84b7646d4ef0dcac852e387
+Author: Oscar <zero.nextar@gmail.com>
+Date:   Mon Jan 11 23:52:46 2016 -0600
+
+    archivo commits creado
+
 commit 27529bcea98b8c701ea355559af9e5209a1bce53
 Merge: fca580b c69a606
 Author: Oscar <zero.nextar@gmail.com>
